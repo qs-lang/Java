@@ -1,5 +1,8 @@
 package com.qslang;
 
+/**
+ * Single entry in qs21 refMap / Memory
+ */
 class Ref
 {
 	private String name;
