@@ -9,6 +9,7 @@ import java.util.UUID;
 
 /**
  * Set of qs21 standard library functions wrapped inside a single class
+ * To be honest, true standard hasn't been defined yet
  */
 class stdlib
 {

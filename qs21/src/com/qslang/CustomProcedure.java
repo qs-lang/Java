@@ -1,9 +1,9 @@
 package com.qslang;
 
 /**
- * Extend this class in order to create custom qs21 procedures.
+ * Extend this class in order to create custom qs21 procedure.
  * Then use def in order to link your newly created custom
- * procedure with qs21 virtual machine.
+ * procedure with qsvm.
  */
 public abstract class CustomProcedure
 {

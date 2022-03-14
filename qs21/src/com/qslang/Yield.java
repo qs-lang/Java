@@ -1,7 +1,7 @@
 package com.qslang;
 
 /**
- * Single thing to put away onto schedulers stack.
+ * Single thing to put away onto scheduler.
  */
 class Yield
 {
@@ -15,8 +15,7 @@ class Yield
 	}
 
 	/**
-	 * Checks if yielded thing is ready and if so,
-	 * evaluates it.
+	 * Checks if yielded thing is ready and if so, evaluates it.
 	 * @param vm
 	 * @return whether the yielded thing has been evaluated already
 	 */
